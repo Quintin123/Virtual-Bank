@@ -1,16 +1,16 @@
 Conclusions and Insights based on the data:
 
-1. Gender Distribution: The Bank has more male customers than female customers.
+- Gender Distribution: The Bank has more male customers than female customers.
 
-2. Geographical Distribution: The Bank has customers in France, Germany, and Spain. And most the Banks customers are in France
+- Geographical Distribution: The Bank has customers in France, Germany, and Spain. And most the Banks customers are in France
 
-3. Credit Score: The meann for credit scores is 650, and the mode is 850. We can conlcude that most customer have a high credit score
+- Credit Score: The meann for credit scores is 650, and the mode is 850. We can conlcude that most customer have a high credit score
 
-4. Age Distribution: The age distribution of customers is positively skewed, indicating that there are more younger customers.
+- Age Distribution: The age distribution of customers is positively skewed, indicating that there are more younger customers.
 
-5. Tenure: The average tenure of customers is 5.01 years, with a mode of 2 years. We can conclude that most customers are new to the bank
+- Tenure: The average tenure of customers is 5.01 years, with a mode of 2 years. We can conclude that most customers are new to the bank
 
-6. Churn Rate: The churn rate, indicating the number of customers who leave the bank is 20.37%. 
+- Churn Rate: The churn rate, indicating the number of customers who leave the bank is 20.37%. 
 
 
 Reflection from Assignment 1 and Assignment 2:
